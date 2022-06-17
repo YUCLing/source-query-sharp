@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceQuery", "SourceQuery\SourceQuery.csproj", "{40659A42-C2C3-40BC-BC8E-1917E60617E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40659A42-C2C3-40BC-BC8E-1917E60617E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40659A42-C2C3-40BC-BC8E-1917E60617E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40659A42-C2C3-40BC-BC8E-1917E60617E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40659A42-C2C3-40BC-BC8E-1917E60617E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58CEA30D-496D-42FF-B8FF-9FA46C722516}
+	EndGlobalSection
+EndGlobal
